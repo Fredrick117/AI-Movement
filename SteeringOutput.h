@@ -1,5 +1,4 @@
 #pragma once
-
 #include <ofVec2f.h>
 
 struct SteeringOutput
@@ -13,5 +12,5 @@ struct SteeringOutput
 	ofVec2f linear;
 	float angular;
 
-	float maxAcceleration = 100.0f;
+	float max_acceleration = 1000.0f;
 };

@@ -1,5 +1,4 @@
 #pragma once
-
 #include <ofVec2f.h>
 #include "SteeringOutput.h"
 
