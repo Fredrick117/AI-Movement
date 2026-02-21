@@ -1,7 +1,9 @@
 #pragma once
+
 #include "Rigidbody.h"
 #include "Graph.h"
 #include <queue>
+#include <ofMain.h>
 
 class Boid
 {

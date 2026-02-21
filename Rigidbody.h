@@ -1,5 +1,8 @@
 #pragma once
+
 #include <ofVec2f.h>
+#include <ofLog.h>
+#include <ofMain.h>
 #include "SteeringOutput.h"
 
 struct Rigidbody

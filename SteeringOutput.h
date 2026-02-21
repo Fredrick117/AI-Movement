@@ -1,4 +1,5 @@
 #pragma once
+
 #include <ofVec2f.h>
 
 struct SteeringOutput

@@ -1,6 +1,4 @@
 #include "Rigidbody.h"
-#include <ofLog.h>
-#include <ofMain.h>
 
 void Rigidbody::KinematicUpdate(float dt)
 {

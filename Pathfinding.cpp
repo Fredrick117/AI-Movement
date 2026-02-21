@@ -1,5 +1,4 @@
 #include "Pathfinding.h"
-#include <queue>
 
 #define INF std::numeric_limits<int>::max()
 typedef std::pair<int, int> PQPair; // Used for priority queue: <weight, vertex>

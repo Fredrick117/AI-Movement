@@ -1,7 +1,9 @@
 #pragma once
-#include <vector>
+
 #include "Graph.h"
 #include "ofMain.h"
+#include <vector>
+#include <queue>
 
 class Pathfinding
 {
